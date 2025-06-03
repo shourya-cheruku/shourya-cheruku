@@ -41,13 +41,13 @@ React.js • Bootstrap • Responsive Design
 Git/GitHub • Power BI • AWS Cloud • Database Management
 ```
 
-##  Coursework & Expertise
-- Object Oriented Programming
-- Operating Systems
-- Computer Networks
-- Design and Analysis of Algorithms
-- Artificial Intelligence & Machine Learning
-- Software Engineering
+##  Let's Play a Game!
+
+<div align="center">
+ <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
+ <br>
+ <em>Ready Player One? Let's code and conquer! 🚀</em>
+</div>
 
 ##  Professional Certifications
 
