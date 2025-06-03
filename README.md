@@ -1,4 +1,4 @@
-# Hi there, I'm Jignesh Shourya Cheruku! 👋
+# Hey, I'm Jignesh Shourya ! 
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -9,11 +9,9 @@
 </div>
 
 ## About Me
-I'm a passionate Computer Science Engineering student at SR University with a strong foundation in software development and emerging technologies. Currently pursuing my B.Tech with a CGPA of 7.9, I'm dedicated to creating innovative solutions and continuously expanding my technical expertise.
+👨‍💻 **Software Engineer** | 🎓 **Computer Science Student**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300"/>
-</div>
+I'm a dedicated Computer Science Engineering student at SR University with expertise in full-stack development, machine learning, and cloud technologies. With a strong academic foundation (CGPA: 7.9) and multiple industry certifications, I'm passionate about building scalable solutions and contributing to innovative software projects.
 
 ## 🎓 Education
 - **B.Tech in Computer Science and Engineering** | SR University (2023 - 2026)
@@ -21,80 +19,74 @@ I'm a passionate Computer Science Engineering student at SR University with a st
 - **Diploma** | Government Polytechnic Nizamabad (2020 - 2023)
   - Percentage: 72%
 
-## 💻 Technical Skills
+## 💻 Technical Stack
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
-</div>
+**Programming Languages:**
+```
+C/C++ • Python • Java • JavaScript • SQL • HTML5 • CSS3
+```
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & Databases:**
+```
+Node.js • Express.js • MongoDB • MySQL
+```
 
-### Frameworks & Technologies
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Frontend & Frameworks:**
+```
+React.js • Bootstrap • Responsive Design
+```
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+**Tools & Technologies:**
+```
+Git/GitHub • Power BI • AWS Cloud • Database Management
+```
 
 ## 📚 Coursework & Expertise
-- Object Oriented Programming Through Java
+- Object Oriented Programming
 - Operating Systems
 - Computer Networks
 - Design and Analysis of Algorithms
 - Artificial Intelligence & Machine Learning
 - Software Engineering
-- Data Mining
 
-## 🏆 Certifications & Achievements
+## 🏆 Professional Certifications
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="300"/>
+<div align="left">
+
+• **AWS Cloud Foundations & Architecture** - Amazon Web Services  
+• **Database Management Systems** - NPTEL  
+• **Introduction to Networks** - Cisco Networking Academy  
+• **Cybersecurity Fundamentals** - Palo Alto Networks  
+• **Python Full Stack Development** - Edu Skills  
+
 </div>
 
-- **AWS Cloud Foundations and Architecture** - Cloud infrastructure and deployment expertise
-- **Database Management Systems (NPTEL)** - Advanced database concepts and management
-- **Introduction to Networks (Cisco Networking Academy)** - Network structures and protocols
-- **Cybersecurity (Palo Alto)** - Information security and cyber defense
-- **Python Full Stack (Edu Skills)** - Comprehensive full-stack development
+## 📈 Current Focus
 
-## 🌱 Currently Learning
+**Learning & Development:**
+- Advanced Machine Learning & AI implementations
+- Cloud architecture patterns and microservices
+- System design and scalable application development
+- DevOps practices and CI/CD pipelines
 
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300"/>
-</div>
+**Areas of Interest:**
+- Full-Stack Web Development (MERN Stack)
+- Machine Learning & Data Science
+- Cloud Computing & AWS Services
+- Database Optimization & Management
+- Cybersecurity & Network Architecture
 
-- Advanced Machine Learning techniques
-- Cloud computing architectures
-- Full-stack web development best practices
-- Database optimization and management
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true)
+
 </div>
-
-![Jignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jigneshcheruku@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/YOUR_PROFILE)
 
 ## 💡 Interests
 - Full-Stack Web Development
@@ -104,16 +96,12 @@ I'm a passionate Computer Science Engineering student at SR University with a st
 - Cybersecurity
 - Healthcare Technology Solutions
 
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jigneshcheruku@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=flat-square&logo=credly&logoColor=white)](https://credly.com/YOUR_PROFILE)
+
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>"Passionate about leveraging technology to create meaningful solutions that make a positive impact on people's lives."</b></em>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-![Profile Views](https://komarev.com/ghpv/?username=YOUR_USERNAME&color=brightgreen)
+**"Building tomorrow's solutions with today's technology"** • ![](https://komarev.com/ghpv/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
