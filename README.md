@@ -41,12 +41,12 @@ React.js • Bootstrap • Responsive Design
 Git/GitHub • Power BI • AWS Cloud • Database Management
 ```
 
-## 🚀 Enter the Codeverse!
+##  Enter the Codeverse!
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2hzMmpjZm1nMnRjYWRjd2owZTJ4OGhhOWpkdHZieHV6aTdrN3M2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.gif" width="400" />
   <br>
-  <em>Leveling up one commit at a time... 👾🧠</em>
+  <em>Leveling up one commit at a time... 👾</em>
 </div>
 
 
