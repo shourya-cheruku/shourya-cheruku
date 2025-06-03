@@ -9,17 +9,17 @@
 </div>
 
 ## About Me
-👨‍💻 **Software Engineer** | 🎓 **Computer Science Student**
+ **Software Engineer** |  **Computer Science Student**
 
 I'm a dedicated Computer Science Engineering student at SR University with expertise in full-stack development, machine learning, and cloud technologies. With a strong academic foundation (CGPA: 7.9) and multiple industry certifications, I'm passionate about building scalable solutions and contributing to innovative software projects.
 
-## 🎓 Education
+##  Education
 - **B.Tech in Computer Science and Engineering** | SR University (2023 - 2026)
   - CGPA: 7.9
 - **Diploma** | Government Polytechnic Nizamabad (2020 - 2023)
   - Percentage: 72%
 
-## 💻 Technical Stack
+##  Technical Stack
 
 **Programming Languages:**
 ```
@@ -41,7 +41,7 @@ React.js • Bootstrap • Responsive Design
 Git/GitHub • Power BI • AWS Cloud • Database Management
 ```
 
-## 📚 Coursework & Expertise
+##  Coursework & Expertise
 - Object Oriented Programming
 - Operating Systems
 - Computer Networks
@@ -49,7 +49,7 @@ Git/GitHub • Power BI • AWS Cloud • Database Management
 - Artificial Intelligence & Machine Learning
 - Software Engineering
 
-## 🏆 Professional Certifications
+##  Professional Certifications
 
 <div align="left">
 
@@ -61,7 +61,7 @@ Git/GitHub • Power BI • AWS Cloud • Database Management
 
 </div>
 
-## 📈 Current Focus
+##  Current Focus
 
 **Learning & Development:**
 - Advanced Machine Learning & AI implementations
@@ -76,7 +76,7 @@ Git/GitHub • Power BI • AWS Cloud • Database Management
 - Database Optimization & Management
 - Cybersecurity & Network Architecture
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -88,7 +88,7 @@ Git/GitHub • Power BI • AWS Cloud • Database Management
 
 </div>
 
-## 💡 Interests
+##  Interests
 - Full-Stack Web Development
 - Machine Learning & AI
 - Cloud Computing
@@ -96,7 +96,7 @@ Git/GitHub • Power BI • AWS Cloud • Database Management
 - Cybersecurity
 - Healthcare Technology Solutions
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jigneshcheruku@gmail.com)
